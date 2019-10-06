@@ -2,4 +2,4 @@
 
 An application that allows you to see the price of a crypto currency through an API.
 
-<img src="Image" width="400">
+<img src="Images/image.png" width="400">
